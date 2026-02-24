@@ -5,6 +5,7 @@
     "dev": "PORT=8080 bun run --watch api/index.ts"
   },
   "dependencies": {
+    "@elysiajs/static": "^1.4.7",
     "elysia": "^1.4.25"
   },
   "devDependencies": {
